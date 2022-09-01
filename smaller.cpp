@@ -3,7 +3,7 @@
 Author: Michael Coleman
 Course: CSCI-135
 Instructor: Genady Maryash
-Assignment: Lab 1
+Assignment: Lab 1A
   */
 
 #include <iostream>
