@@ -1,3 +1,10 @@
+/*
+Author: Michael Coleman
+Course: CSCI-135
+Instructor: Genady Maryash
+Assignment: Lab 1B
+  */
+
 #include <iostream>
 
 int main() {
